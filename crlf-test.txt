@@ -5,3 +5,7 @@ Which do you like CR LF or LF?
 This file uses "CR LF"!!!!
 
 Clone me!
+
+AAA
+BBB
+CCC

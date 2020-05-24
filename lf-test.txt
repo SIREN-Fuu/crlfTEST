@@ -3,3 +3,7 @@ End of Line Character Test
 Which do you like CR LF or LF?
 
 This file uses "LF"!!!!
+
+AAA
+BBB
+CCC
